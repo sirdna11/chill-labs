@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My Next.js Project
 
-## Getting Started
+This project demonstrates a product list page, developed using [Next.js](https://nextjs.org/), a powerful React framework, combined with TypeScript.
 
-First, run the development server:
+![Project Screenshot](/public/Screenshot%20(11).png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Product List Page**: Products are fetched from an external endpoint and displayed in a user-friendly list.
+- **Real-time Search**: The list features a real-time search input that filters products without a page refresh as users type.
+- **Product Details**: Clicking on a product redirects users to its detailed view.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Live Demo
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Explore the live version of the project: [Check out the live demo!](https://main--dazzling-selkie-168740.netlify.app/)
 
-## Learn More
+## Front-end Developer Task - Product List with React.js
 
-To learn more about Next.js, take a look at the following resources:
+This project serves as a hands-on task to showcase capabilities in React.js and TypeScript. The core aim is to integrate product data, implement a dynamic search filter, and provide a seamless navigation experience.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
